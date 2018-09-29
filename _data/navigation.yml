@@ -5,5 +5,5 @@ main:
     url: /projects/
   - title: "Groups"
     url: /groups/
-  - titles: "Map"
+  - title: "Map"
     url: /map/
