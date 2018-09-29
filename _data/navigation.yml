@@ -1,0 +1,9 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Groups"
+    url: /groups/
+  - titles: "Map"
+    url: /map/
