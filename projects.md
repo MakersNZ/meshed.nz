@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-Projects
-========
 
 There are simply not enough hours in a day, but we love working with others to see positive community outcomes.
 
