@@ -25,7 +25,7 @@ github_username:  MakersNZ
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: contrast
 
 plugins:
   - jekyll-paginate
